@@ -15,7 +15,7 @@
   ******************************************************************************
   */ 
 	
-  #include "stm32f10x.h"//okk
+  #include "stm32f10x.h"
   #include "bsp_led.h"//okk
 
 #define SOFT_DELAY Delay(0x0FFFFF);
