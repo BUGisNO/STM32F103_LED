@@ -15,8 +15,8 @@
   ******************************************************************************
   */ 
 	
-#include "stm32f10x.h"
-#include "bsp_led.h"
+  #include "stm32f10x.h"//ok
+  #include "bsp_led.h"
 
 #define SOFT_DELAY Delay(0x0FFFFF);
 
